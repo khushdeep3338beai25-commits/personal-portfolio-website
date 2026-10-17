@@ -73,4 +73,31 @@ portfolio/home.html
 
 Alternatively, open the project in Visual Studio Code and use the Live Server extension to preview the website.
 
+🎨 Customization
+
+You can personalize the website by editing the following files:
+
+portfolio/home.html — Update your introduction, skills, projects, education, and other portfolio content.
+
+portfolio/style.css — Customize colors, fonts, spacing, layouts, and other visual styles.
+
+image/girl.jpeg — Replace the profile image with your own image while keeping the file path consistent, or update the image path in the HTML.
+
+🔮 Future Improvements
+
+Some features that could be added in future versions include:
+
+Add JavaScript-powered interactions.
+
+Create a functional contact form.
+
+Add smooth scrolling and animations.
+
+Implement project filtering by technology.
+
+Improve accessibility and mobile responsiveness.
+
+Add social media and GitHub profile links.
+
+Deploy the website using GitHub Pages.
 
