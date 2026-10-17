@@ -23,3 +23,54 @@ The website demonstrates my understanding of front-end web development fundament
 🎨 Custom Styling — Styled with CSS for a clean and user-friendly interface.
 
 🧩 Easy Customization — Simple HTML and CSS structure that can be modified easily.
+
+🛠️ Technologies Used
+
+Technology
+
+Purpose
+
+HTML5
+
+Structure and content of the website
+
+CSS3
+
+Styling, layout, and responsive design
+
+📂 Project Structure
+
+personal-portfolio-website/
+│
+├── image/
+│   └── girl.jpeg
+│
+├── portfolio/
+│   ├── home.html
+│   └── style.css
+│
+└── README.md
+
+💻 Getting Started
+
+Follow these steps to run the project on your computer.
+
+1. Clone the Repository
+
+git clone https://github.com/yourusername/personal-portfolio-website.git
+
+Replace yourusername with your GitHub username.
+
+2. Navigate to the Project Folder
+
+cd personal-portfolio-website
+
+3. Open the Website
+
+Open the following file in your browser:
+
+portfolio/home.html
+
+Alternatively, open the project in Visual Studio Code and use the Live Server extension to preview the website.
+
+
