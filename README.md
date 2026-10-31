@@ -1,28 +1,28 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my **Personal Portfolio Website**! ✨
+Welcome to my **Personal Portfolio Website!** ✨
 
-This project is a clean, responsive, and beginner-friendly portfolio website built using **HTML5 and CSS3**. It showcases my personal introduction, technical skills, projects, education, and professional profile in a simple and visually appealing layout.
+A clean, responsive, and beginner-friendly portfolio website developed using **HTML5 and CSS3**. This project showcases my personal introduction, technical skills, academic background, projects, and professional profile through a simple yet visually appealing interface.
 
-The website demonstrates my understanding of front-end web development fundamentals, including page structure, styling, layout design, and responsive design principles.
+It highlights my understanding of front-end development fundamentals, including semantic HTML, CSS styling, layout design, and responsive web design principles.
 
 ## 🚀 Features
 
-- 📱 **Responsive Design** — Designed to adapt to different screen sizes.
-- 👩‍💻 **Personal Introduction** — Introduces me and my professional interests.
-- 🛠️ **Skills Section** — Showcases technical skills and technologies.
-- 💼 **Projects Showcase** — Highlights personal and academic projects.
-- 🎓 **Education Section** — Displays academic background and qualifications.
-- 🖼️ **Profile Image** — Includes a personal profile image.
-- 🎨 **Custom Styling** — Styled with CSS for a clean and user-friendly interface.
-- 🧩 **Easy Customization** — Simple HTML and CSS structure that can be modified easily.
+- 📱 **Responsive Design** — Adapts to different screen sizes and devices.
+- 👩‍💻 **About Me** — Introduces my background, interests, and professional goals.
+- 🛠️ **Technical Skills** — Highlights programming languages and technical expertise.
+- 💼 **Projects Showcase** — Displays personal and academic projects.
+- 🎓 **Education** — Presents academic background and qualifications.
+- 🖼️ **Profile Image** — Includes a personal profile photograph.
+- 🎨 **Custom UI Design** — Clean styling with an organized and user-friendly layout.
+- 🧩 **Easy Customization** — Simple and well-structured HTML and CSS files.
 
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |---|---|
-| HTML5 | Structure and content of the website |
-| CSS3 | Styling, layout, and responsive design |
+| HTML5 | Website structure and content |
+| CSS3 | Styling, layouts, and responsive design |
 
 ## 📂 Project Structure
 
@@ -41,7 +41,7 @@ personal-portfolio-website/
 
 ## 💻 Getting Started
 
-Follow these steps to run the project on your computer.
+Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 
@@ -51,13 +51,13 @@ git clone https://github.com/yourusername/personal-portfolio-website.git
 
 Replace `yourusername` with your GitHub username.
 
-### 2. Navigate to the Project Folder
+### 2. Navigate to the Project Directory
 
 ```bash
 cd personal-portfolio-website
 ```
 
-### 3. Open the Website
+### 3. Run the Website
 
 Open the following file in your browser:
 
@@ -65,27 +65,27 @@ Open the following file in your browser:
 portfolio/home.html
 ```
 
-Alternatively, open the project in **Visual Studio Code** and use the Live Server extension to preview the website.
+Alternatively, open the project in **Visual Studio Code** and use the Live Server extension for a better development experience.
 
 ## 🎨 Customization
 
-You can personalize the website by editing the following files:
+You can easily personalize the website by modifying these files:
 
-- **`portfolio/home.html`** — Update your introduction, skills, projects, education, and other portfolio content.
-- **`portfolio/style.css`** — Customize colors, fonts, spacing, layouts, and other visual styles.
-- **`image/girl.jpeg`** — Replace the profile image with your own image while keeping the file path consistent, or update the image path in the HTML.
+- **`portfolio/home.html`** — Update personal information, skills, projects, and education details.
+- **`portfolio/style.css`** — Modify colors, typography, spacing, layouts, and visual effects.
+- **`image/girl.jpeg`** — Replace the existing profile image with your own photograph while maintaining the file path, or update its path in the HTML file.
 
-## 🔮 Future Improvements
+## 🔮 Future Enhancements
 
-Some features that could be added in future versions include:
+Potential improvements for future versions include:
 
-- Add JavaScript-powered interactions.
-- Create a functional contact form.
-- Add smooth scrolling and animations.
-- Implement project filtering by technology.
-- Improve accessibility and mobile responsiveness.
-- Add social media and GitHub profile links.
-- Deploy the website using GitHub Pages.
+- Add JavaScript-powered interactive elements.
+- Implement a functional contact form.
+- Introduce smooth scrolling and animations.
+- Add project filtering based on technologies.
+- Enhance accessibility and mobile responsiveness.
+- Integrate GitHub and social media links.
+- Deploy the portfolio using GitHub Pages.
 
 ## 👩‍💻 About the Author
 
@@ -93,18 +93,20 @@ Some features that could be added in future versions include:
 
 Computer Science Engineering — Artificial Intelligence & Machine Learning
 
-Passionate about technology, programming, and building creative web development projects.
+Passionate about technology, programming, problem-solving, and building creative web development projects.
 
 ## 🤝 Contributing
 
-Suggestions and improvements are welcome! Feel free to fork this repository, make changes, and submit a pull request.
+Suggestions and improvements are always welcome!
+
+Feel free to fork this repository, make your changes, and submit a pull request.
 
 ## 📄 License
 
-This project is intended for educational and personal use. You may adapt it for your own portfolio.
+This project is intended for educational and personal use. You are welcome to explore, modify, and adapt it for your own learning and portfolio development.
 
 ---
 
 ⭐ **If you find this project useful, consider giving the repository a star!**
 
-*Built with ❤️ using HTML and CSS.*
+*Designed and developed with ❤️ using HTML5 and CSS3.*
