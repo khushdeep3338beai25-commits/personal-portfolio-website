@@ -17,13 +17,6 @@ It highlights my understanding of front-end development fundamentals, including 
 - 🎨 **Custom UI Design** — Clean styling with an organized and user-friendly layout.
 - 🧩 **Easy Customization** — Simple and well-structured HTML and CSS files.
 
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| HTML5 | Website structure and content |
-| CSS3 | Styling, layouts, and responsive design |
-
 ## 📂 Project Structure
 
 ```text
