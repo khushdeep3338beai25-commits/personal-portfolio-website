@@ -39,33 +39,6 @@ personal-portfolio-website/
 └── README.md
 ```
 
-## 💻 Getting Started
-
-Follow these steps to run the project locally.
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/personal-portfolio-website.git
-```
-
-Replace `yourusername` with your GitHub username.
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd personal-portfolio-website
-```
-
-### 3. Run the Website
-
-Open the following file in your browser:
-
-```text
-portfolio/home.html
-```
-
-Alternatively, open the project in **Visual Studio Code** and use the Live Server extension for a better development experience.
 
 ## 🎨 Customization
 
