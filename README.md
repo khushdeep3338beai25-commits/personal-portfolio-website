@@ -33,14 +33,6 @@ personal-portfolio-website/
 ```
 
 
-## 🎨 Customization
-
-You can easily personalize the website by modifying these files:
-
-- **`portfolio/home.html`** — Update personal information, skills, projects, and education details.
-- **`portfolio/style.css`** — Modify colors, typography, spacing, layouts, and visual effects.
-- **`image/girl.jpeg`** — Replace the existing profile image with your own photograph while maintaining the file path, or update its path in the HTML file.
-
 ## 🔮 Future Enhancements
 
 Potential improvements for future versions include:
