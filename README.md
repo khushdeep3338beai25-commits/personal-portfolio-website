@@ -23,15 +23,6 @@ The portfolio demonstrates my understanding of front-end web development fundame
 
 ---
 
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| HTML5 | Structure and content of the website |
-| CSS3 | Styling, layouts, and responsive design |
-
----
-
 ## 📂 Project Structure
 
 ```text
