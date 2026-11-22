@@ -7,21 +7,7 @@ This project is a clean, responsive, and visually appealing personal portfolio d
 
 The portfolio demonstrates my understanding of front-end web development fundamentals, semantic HTML, CSS layouts, styling techniques, and responsive design principles.
 
----
 
-## 🚀 Features
-
-- 📱 **Responsive Design** — Optimized for desktops, tablets, and mobile devices.
-- 👩‍💻 **About Me** — Introduction to my background, interests, and career aspirations.
-- 🛠️ **Technical Skills** — Showcase of programming languages and technical expertise.
-- 💼 **Projects Showcase** — Highlights personal and academic projects.
-- 🎓 **Education Section** — Displays academic qualifications and educational background.
-- 🖼️ **Profile Image** — Personalized portfolio with a profile photograph.
-- 🎨 **Modern UI Design** — Clean, attractive, and well-structured interface.
-- 🧩 **Easy Customization** — Organized HTML and CSS files for simple modifications.
-- 💻 **Beginner-Friendly Code** — Suitable for learning and practicing front-end development.
-
----
 
 ## 📂 Project Structure
 
