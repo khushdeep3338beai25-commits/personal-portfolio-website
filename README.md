@@ -8,15 +8,6 @@ Designed with a focus on simplicity, visual appeal, and user-friendly navigation
 
 ---
 
-## ✨ Features
-
-- **Home Section** – Introduction and personal profile.
-- **About Me** – Brief overview of my background and interests.
-- **Education** – Academic qualifications and learning journey.
-- **Technical Skills** – Overview of programming and development skills.
-- **Projects** – Showcase of personal and academic projects.
-- **Responsive Layout** – Structured design for different screen sizes.
-- **Clean UI** – Simple styling, organized sections, and intuitive layout.
 
 ## 🛠️ Technologies Used
 
