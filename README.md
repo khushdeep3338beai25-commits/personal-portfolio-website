@@ -8,14 +8,6 @@ Designed with a focus on simplicity, visual appeal, and user-friendly navigation
 
 ---
 
-
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| HTML5 | Website structure and content |
-| CSS3 | Styling, layouts, and responsiveness |
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
