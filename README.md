@@ -16,21 +16,6 @@ Designed with a focus on simplicity, visual appeal, and user-friendly navigation
 | HTML5 | Website structure and content |
 | CSS3 | Styling, layouts, and responsiveness |
 
-## 📂 Project Structure
-
-```text
-personal-portfolio-website/
-│
-├── image/
-│   └── girl.jpeg
-│
-├── portfolio/
-│   ├── home.html
-│   └── style.css
-│
-└── README.md
-```
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
